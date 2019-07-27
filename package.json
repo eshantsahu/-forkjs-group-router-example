@@ -1,0 +1,15 @@
+{
+  "name": "fork-group-router-example",
+  "version": "1.0.0",
+  "description": "Example for @forkjs/group-router",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eshant Sahu",
+  "license": "ISC",
+  "dependencies": {
+    "@forkjs/group-router": "^1.0.4",
+    "express": "^4.17.1"
+  }
+}
