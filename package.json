@@ -11,5 +11,14 @@
   "dependencies": {
     "@forkjs/group-router": "^1.0.4",
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshantsahu/forkjs-group-router-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eshantsahu/forkjs-group-router-example/issues"
+  },
+  "homepage": "https://github.com/eshantsahu/forkjs-group-router-example#readme"
 }
